@@ -8,7 +8,7 @@ from adafruit_motor import stepper
 interface = 'wlan1'
 rssi_scanner = rssi.RSSI_Scan(interface)
 
-ssids = ['dd-wrt','linksys']
+ssids = ['Tiger8','posnick']
 
 # sudo argument automatixally gets set for 'false', if the 'true' is not set manually.
 # python file will have to be run with sudo privileges.
